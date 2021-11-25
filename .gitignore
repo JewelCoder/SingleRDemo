@@ -3,7 +3,7 @@
 singler-client/node_modules/
 singler-client/dist/
 
-singler-server/*.user
-singler-server/obj/
-singler-server/bin/
+singler-server/singler-server/*.user
+singler-server/singler-server/obj/
+singler-server/singler-server/bin/
 singler-server/.vs/
